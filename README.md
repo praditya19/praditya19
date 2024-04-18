@@ -5,8 +5,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praditya19" alt="praditya19" /></a> </p>
 
+👨‍💻 About Me :
+I am a Full Stack Developer from Indonesia.
+
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 🌱 I’m currently learning **Next Js, Python, Laravel**
+
+- 👯 I am currently studying at **Semarang University (USM)**
+
+<p align="left">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/praditya-rendi-55765717a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="praditya-rendi-55765717a" height="30" width="40" /></a>
+<a href="https://instagram.com/praditya_rendii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="praditya_rendii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
